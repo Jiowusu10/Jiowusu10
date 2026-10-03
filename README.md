@@ -155,7 +155,7 @@ I’m especially interested in building software that can move beyond a single o
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiowusu10&layout=compact&hide_border=true" height="165">
 </p>
 
 ---
