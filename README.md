@@ -9,7 +9,7 @@
   <a href="https://jiowusu.com">
     <img src="https://img.shields.io/badge/Portfolio-jiowusu.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/jiowusu10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -154,7 +154,7 @@ I’m especially interested in building software that can move beyond a single o
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiowusu10&show_icons=true&hide_border=true&count_private=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiowusu10&layout=compact&hide_border=true" height="165">
 </p>
 
