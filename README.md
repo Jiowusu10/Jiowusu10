@@ -1,16 +1,13 @@
 # Hi, I'm James Owusu Inkum 👋
 
 <p align="center">
-  <b>Software Engineer · Full-Stack Developer · Product Builder</b><br>
+  <b>Software Engineer · Product Builder</b><br>
   <sub>Ghana 🇬🇭 · Building practical software for real-world problems</sub>
 </p>
 
 <p align="center">
   <a href="https://jiowusu.com">
     <img src="https://img.shields.io/badge/Portfolio-jiowusu.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Jiowusu10">
-    <img src="https://img.shields.io/badge/GitHub-Jiowusu10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -24,7 +21,7 @@ I enjoy working across the full stack — from designing interfaces and APIs to 
 
 My main interests are:
 
-- 🚀 Full-stack software engineering
+- 🚀 Software engineering and Artificial Intelligence
 - 📊 Data science and practical data-driven systems
 - 🏗️ SaaS architecture and multi-tenant applications
 - 📱 Web and mobile application development
@@ -77,39 +74,13 @@ I'm particularly interested in turning ideas into **usable products**, especiall
 
 ---
 
-### 📌 Selected Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| **Applicant Tracking & E-Recruitment System** | Recruitment platform exploring CV parsing, candidate evaluation, and candidate–job matching. | `Python` `Django` `PostgreSQL` |
-| **Campus Church Finance System** | Financial application for recording income, expenditure, funds, approvals, and audit activity. | `Next.js` `PostgreSQL` |
-| **CampusWatchApp** | University financial application exploring role-based access, blockchain-backed records, and transaction workflows. | `React` `Node.js` `MongoDB` `Solidity` |
-| **JioFX** | Financial software project focused on financial records, reporting, and accountability workflows. | `Next.js` `PostgreSQL` |
-
----
 
 ### 🧠 Areas of Interest
 
 - **Software Engineering:** Full-stack development, API design, scalable architecture, and application security.
+- **Artificial Intelligence:** AI in systems, prediction and analysis.
 - **Data:** Data science, data analysis, visualization, and practical machine learning.
 - **Product Engineering:** SaaS, progressive web apps, mobile applications, and cloud deployment.
-
----
-
-### 🎯 My Direction
-
-I'm working toward becoming a **strong software engineer and technology entrepreneur** — someone who can take a problem from idea → architecture → implementation → deployment → product.
-
-My goal is to build software that goes beyond individual projects and becomes **reliable, reusable technology that serves real users and businesses**.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiowusu10&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiowusu10&layout=compact&hide_border=true&theme=default" height="165" alt="Most used languages">
-</p>
 
 ---
 
