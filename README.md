@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jiowusu.com">i</a>
+  <a href="https://jiowusu.com">JIOWUSU</a>
 </p>
 
 ---
