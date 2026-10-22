@@ -1,4 +1,4 @@
-# Hi, I'm James Owusu Inkum 👋
+# Hi, I'm James Inkum Owusu 👋
 
 <p align="center">
   <b>Software Engineer · Product Builder</b><br>
