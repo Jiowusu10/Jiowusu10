@@ -6,18 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://jiowusu.com">
-    <img src="https://img.shields.io/badge/Portfolio-jiowusu.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
+  <a href="https://jiowusu.com">i</a>
 </p>
 
 ---
 
 ### 👨🏾‍💻 About Me
 
-I'm a **software engineer and full-stack developer** interested in building reliable, useful software that solves real problems.
+I'm a **software engineer** interested in building reliable, useful software that solves real problems.
 
-I enjoy working across the full stack — from designing interfaces and APIs to databases, authentication, deployment, and the architecture behind production applications.
+I enjoy working across the full stack; from designing interfaces and APIs to databases, authentication, deployment, and the architecture behind production applications.
 
 My main interests are:
 
